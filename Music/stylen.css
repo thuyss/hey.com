@@ -1,0 +1,55 @@
+body{
+	margin: 0;
+}
+header{
+	text-align: center;
+	background-color: green;
+	padding: 10px;
+	font-family: arial;
+	color: white;
+}
+nav{
+	overflow: hidden;
+	background-color: orange;
+	padding: 20px;
+
+}
+nav a{
+	float: left;
+	text-decoration: none;
+	padding-right: 100px;
+}
+nav a:hover{
+	background-color: orange;
+
+	color: white;
+	
+
+}
+div h1{
+	color: black;
+	font-family: arial;
+	padding-left: 20px;
+
+}
+div p1{
+	font-family: arial;
+	color: none;
+
+padding: 20px 15px 10px 15px;}
+
+div img{
+	padding-left: 90px;
+}
+div h3{
+	font-family: arial;
+	padding-left: 20px;
+}
+div p3{
+	font-family: arial;
+	padding-left: 50px;
+	width: 25;
+}
+div.p1{
+	width: 25%;
+}
